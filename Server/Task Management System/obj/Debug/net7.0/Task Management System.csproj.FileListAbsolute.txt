@@ -1,0 +1,78 @@
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\appsettings.Development.json
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\appsettings.json
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Task Management System.exe
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Task Management System.deps.json
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Task Management System.runtimeconfig.json
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Task Management System.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Task Management System.pdb
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\AutoMapper.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Azure.Core.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Azure.Identity.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Humanizer.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.CodeDom.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.Memory.Data.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\tt\Task-Management-System-master\Task Management System\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.csproj.AssemblyReference.cache
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.AssemblyInfoInputs.cache
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.AssemblyInfo.cs
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.csproj.CoreCompileInputs.cache
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.MvcApplicationPartsAssemblyInfo.cs
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\staticwebassets\msbuild.Task Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\staticwebassets\msbuild.build.Task Management System.props
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task Management System.props
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task Management System.props
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\staticwebassets.pack.json
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\staticwebassets.build.json
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\staticwebassets.development.json
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\scopedcss\bundle\Task Management System.styles.css
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.csproj.CopyComplete
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.dll
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\refint\Task Management System.dll
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.pdb
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\Task Management System.genruntimeconfig.cache
+D:\tt\Task-Management-System-master\Task Management System\obj\Debug\net7.0\ref\Task Management System.dll
